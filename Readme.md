@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DemoViewController.cs](./CS/UsesTypesInfo.Module.Win/DemoViewController.cs) (VB: [DemoViewController.vb](./VB/UsesTypesInfo.Module.Win/DemoViewController.vb))
+* [DemoClasses.cs](./CS/UsesTypesInfo.Module/DemoClasses.cs) (VB: [DemoClasses.vb](./VB/UsesTypesInfo.Module/DemoClasses.vb))
+<!-- default file list end -->
 # How to: Access Business Class Metadata
 
 
